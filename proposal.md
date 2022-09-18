@@ -15,4 +15,4 @@ I will also discuss on the diversity of the Premier League, bringing attention t
 
 ### Data Snapshot
 
-(/Users/tobechukwuobi/9-2-front-end-project/assets/CA95AE8A-5900-4C6B-BB89-FAD72E02A587.png) 
+(/Users/tobechukwuobi/9-2-front-end-project/assets/CA95AE8A-5900-4C6B-BB89-FAD72E02A587.png)
