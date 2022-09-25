@@ -37,3 +37,5 @@ fetch("https://heisenbug-premier-league-live-scores-v1.p.rapidapi.com/api/premie
 
     tableBody.innerHTML = dataHTML;
   }
+
+  

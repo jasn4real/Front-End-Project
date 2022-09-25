@@ -4,6 +4,14 @@ table {
     width: 80%;
 }
 
+header {
+    background: purple;
+    background-image: url(https://resources.premierleague.com/photos/2020/10/14/c29e2653-0d5b-4099-a5c8-82e27839bf66/Statement_Graphic_Pink.png?width=930&height=620);
+    color: #f3fcf0;
+    padding: 20px;
+    text-align: center;
+  }
+
 td, th {
     border: 1px solid #cccccc;
     padding: 8px;
@@ -12,3 +20,38 @@ td, th {
 tr:nth-child(even) {
     background-color: #dddddd;
 }
+
+tr:hover {
+    background-color: rgb(72, 72, 220);
+    color: white;
+}
+
+/* nav ul li {
+    list-style: none;
+    display: inline;
+    width: 100%;
+    text-align: center;
+    justify-content: space-between;
+    font-weight: bolder;
+} */
+
+header nav ul {
+    padding: 0;
+  }
+  
+  header nav li {
+    display: inline-block;
+  }
+  
+  header nav li a {
+    color: #f3fcf0;
+    margin: 15px;
+    padding: 10px;
+    font-weight: bolder;
+    text-decoration: none;
+  }
+  
+  header nav li a:hover {
+    color: #ffd23f;
+    border-bottom: 2px dotted #ffd23f;
+  }
